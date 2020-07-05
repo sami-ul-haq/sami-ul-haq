@@ -2,7 +2,7 @@
 ### I'm Sami ul Haq
 
 - 🔭 I’m Currently Working On Javascript
-- 🌱 I’m Currently Learning Front-end Development
+- 🌱 And Learning Front-end Development
 - 💬 Ask Me Anything
 - 📫 Feel Free To Reach Me On My Social Media
 
