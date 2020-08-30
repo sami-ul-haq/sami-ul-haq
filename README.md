@@ -1,7 +1,7 @@
 ### Hi There 👋
 ### I'm Sami ul Haq
 
-- 📚 I’m Currently Learning Front-end Development
+- 📚 Learning Front-end Development
 - 📅 Currently Working On Javascript
 - 💬 Ask Me Anything
 - 📫 Feel Free To Reach Me On My Social Media
