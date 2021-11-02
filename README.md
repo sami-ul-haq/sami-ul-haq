@@ -1,8 +1,8 @@
 ### Hi There 👋
 ### I'm Sami ul Haq
 
-- 📚 Learning Front-end Development
-- 📅 Currently Working On Javascript ( React )
+- 📚 A Full Stack Developer
+- 📅 Currently Working as Front End Developer)
 - 💬 Ask Me Anything [Here](https://github.com/sami-ul-haq/sami-ul-haq/issues)
 - 📫 Feel Free To Reach Me On My Social Media
 - 👉 [Facebook](https://www.facebook.com/sami.ul.haq.2017) 👉 [Twitter](https://twitter.com/_semiulhaq) 👉 [Instagram](https://www.instagram.com/_samiulhaq/)
